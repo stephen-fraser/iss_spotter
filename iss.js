@@ -1,3 +1,5 @@
+//collaborated/pair programmed with @cknowles90
+
 /**
  * Makes a single API request to retrieve the user's IP address.
  * Input:
